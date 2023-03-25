@@ -1,7 +1,6 @@
 # -MERN-AI-Image-Generation-App-v2
 
 ## Build and Deploy a Full Stack MERN AI Image Generation App
-![Image Generation App](https://i.ibb.co/p0f27C2/Thumbnail-9.png)
 
 ## Technology Stack & Tools
 - [MongoDB](https://www.mongodb.com/) (Cloud Database Management System)
