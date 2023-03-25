@@ -1,4 +1,4 @@
-# -MERN-AI-Image-Generation-App-v2
+# MERN-AI-Image-Generation-App-v2
 
 ## Build and Deploy a Full Stack MERN AI Image Generation App
 
